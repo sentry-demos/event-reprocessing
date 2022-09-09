@@ -1,6 +1,6 @@
-# Minidump Upload Example
+# Sentry Error + Minidump Reprocessing
 
-A tool that will download and re-upload minidump and event payloads to Sentry with
+A tool that will download and re-upload an event payloads and its minidump to Sentry with
 compression built with the Sentry Python SDK.
 
 ## Installation
