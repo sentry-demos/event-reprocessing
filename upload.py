@@ -13,6 +13,7 @@ SAFE_FIELDS = (
     "contexts",
     "dist",
     "environment",
+    "exception",
     "extra",
     "logentry",
     "message",
